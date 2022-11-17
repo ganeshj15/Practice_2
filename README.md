@@ -1,5 +1,5 @@
 # Practice_2
-Codes on List
+Here we will see some sample codes on python data type 'list'
 
 INTRODUCTION to list
 
