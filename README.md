@@ -1,5 +1,6 @@
 # Practice_2
 Codes on List
+
 INTRODUCTION to list
 
 Lists are used to store multiple items in a single variable.
